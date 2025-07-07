@@ -1,2 +1,3 @@
 teste04
-quarto dia de aula fodase
+quarto dia de aula via git bash
+
